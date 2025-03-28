@@ -48,7 +48,7 @@ def main():
                 print("Error: Port must be a number!")
         
         elif choice == "3":
-            print("Exiting toolkit. Good luck with Cognizant!")
+            print("Exiting toolkit. Good luck!")
             sys.exit()
         
         else:
